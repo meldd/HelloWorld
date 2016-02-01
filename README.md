@@ -1,2 +1,2 @@
 # HelloWorld
-csc201
+I'm Melanie.  New here. I'm learning.
